@@ -1,4 +1,4 @@
-📊 Sales Dashboard — Excel Project
+#📊 Sales Dashboard — Excel Project
 
 This project showcases an interactive Sales Dashboard created in Microsoft Excel to analyze key business metrics. It provides a clear overview of performance indicators such as Total Sales, Net Sales, Returns, Discounts, Orders, and Profit, supported by dynamic visualizations and slicers for real-time data exploration.
 
